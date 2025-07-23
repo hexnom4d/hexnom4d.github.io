@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>skyg4mb</title>
-    <link>http://skyg4mb.github.io/</link>
-    <description>Recent content on skyg4mb</description>
+    <title>hexnom4d</title>
+    <link>http://hexnom4d.github.io/</link>
+    <description>Recent content on hexnom4d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Jul 2022 15:41:15 -0500</lastBuildDate><atom:link href="http://skyg4mb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 15:41:15 -0500</lastBuildDate><atom:link href="http://hexnom4d.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSint on scribd</title>
-      <link>http://skyg4mb.github.io/posts/osintonscribd/</link>
+      <link>http://hexnom4d.github.io/posts/osintonscribd/</link>
       <pubDate>Wed, 13 Jul 2022 15:41:15 -0500</pubDate>
       
-      <guid>http://skyg4mb.github.io/posts/osintonscribd/</guid>
+      <guid>http://hexnom4d.github.io/posts/osintonscribd/</guid>
       <description>Scribd es un herramienta en linea que nos da la posibbilidad de acceder a infinidad de documentos o libros, como herramienta de aprendizaje me ha parecido siempre imprescindible, tiene una enorme cantidad de recursos. Sin embargo tiene una funcionalidad muy llamativa, si quieres obtener un documento de manera gratuita tienes la opcion de subir otro documento, la condicion es que el documento que subes no este en la plataforma con anterioridad, esto ha llevado a mucha gente a subir documentos privados, corporativos, con informacion confidencial, etc.</description>
     </item>
     
     <item>
       <title>Scene recon deployment</title>
-      <link>http://skyg4mb.github.io/posts/scenerecondeploy/</link>
+      <link>http://hexnom4d.github.io/posts/scenerecondeploy/</link>
       <pubDate>Fri, 08 Jul 2022 16:09:07 -0500</pubDate>
       
-      <guid>http://skyg4mb.github.io/posts/scenerecondeploy/</guid>
+      <guid>http://hexnom4d.github.io/posts/scenerecondeploy/</guid>
       <description>SceneRecon deployment SceneRecon es una aplicacion contruida con la finalidad de facilitar el control y flujo de informacion durante un incidente, permite almacenar todos los datos necesarios para documentar el incidente y graficar de manera automatica los diferentes movimientos que tuvieron los adversarios dentro de la red.
 La aplicacion se compone de tres contenedores completamente separados entre ellos.
 Base de datos Backend Frontend En la base de datos encontraremos una mongodb, este contenedor por defecto no tendra persistencia en su informacion, es por esto que recomiendo un despliegue persistente de docker en este sentido, en un blog posterior explicare como realizar este procedimiento.</description>
@@ -29,29 +29,29 @@ Base de datos Backend Frontend En la base de datos encontraremos una mongodb, es
     
     <item>
       <title>About</title>
-      <link>http://skyg4mb.github.io/about/</link>
+      <link>http://hexnom4d.github.io/about/</link>
       <pubDate>Thu, 07 Jul 2022 19:06:10 -0500</pubDate>
       
-      <guid>http://skyg4mb.github.io/about/</guid>
+      <guid>http://hexnom4d.github.io/about/</guid>
       <description>Profesional cybersecurity Engineer from 2010, Redteam, Incident Response, Forensic.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://skyg4mb.github.io/contact/</link>
+      <link>http://hexnom4d.github.io/contact/</link>
       <pubDate>Thu, 07 Jul 2022 19:06:04 -0500</pubDate>
       
-      <guid>http://skyg4mb.github.io/contact/</guid>
+      <guid>http://hexnom4d.github.io/contact/</guid>
       <description>For contact you can use MyPublicInbox, I try to answer all emails.
 My Public Inbox </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://skyg4mb.github.io/projects/</link>
+      <link>http://hexnom4d.github.io/projects/</link>
       <pubDate>Thu, 07 Jul 2022 19:03:53 -0500</pubDate>
       
-      <guid>http://skyg4mb.github.io/projects/</guid>
+      <guid>http://hexnom4d.github.io/projects/</guid>
       <description>SR (Scene Recon) This project has many times at time, i wish this name was the last, the principal objective of the project is organize information on incident with a large work team. All investigators on project can contribute simultaneously with his own findings.
 First of all talk about project infraestructure, consist in one database build in mongodb, this database store objects of application like machines, timeline, users and roles.</description>
     </item>
