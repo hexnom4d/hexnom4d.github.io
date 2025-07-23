@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on skyg4mb</title>
+    <link>http://skyg4mb.github.io/posts/</link>
+    <description>Recent content in Posts on skyg4mb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jul 2022 15:41:15 -0500</lastBuildDate><atom:link href="http://skyg4mb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSint on scribd</title>
+      <link>http://skyg4mb.github.io/posts/osintonscribd/</link>
+      <pubDate>Wed, 13 Jul 2022 15:41:15 -0500</pubDate>
+      
+      <guid>http://skyg4mb.github.io/posts/osintonscribd/</guid>
+      <description>Scribd es un herramienta en linea que nos da la posibbilidad de acceder a infinidad de documentos o libros, como herramienta de aprendizaje me ha parecido siempre imprescindible, tiene una enorme cantidad de recursos. Sin embargo tiene una funcionalidad muy llamativa, si quieres obtener un documento de manera gratuita tienes la opcion de subir otro documento, la condicion es que el documento que subes no este en la plataforma con anterioridad, esto ha llevado a mucha gente a subir documentos privados, corporativos, con informacion confidencial, etc.</description>
+    </item>
+    
+    <item>
+      <title>Scene recon deployment</title>
+      <link>http://skyg4mb.github.io/posts/scenerecondeploy/</link>
+      <pubDate>Fri, 08 Jul 2022 16:09:07 -0500</pubDate>
+      
+      <guid>http://skyg4mb.github.io/posts/scenerecondeploy/</guid>
+      <description>SceneRecon deployment SceneRecon es una aplicacion contruida con la finalidad de facilitar el control y flujo de informacion durante un incidente, permite almacenar todos los datos necesarios para documentar el incidente y graficar de manera automatica los diferentes movimientos que tuvieron los adversarios dentro de la red.
+La aplicacion se compone de tres contenedores completamente separados entre ellos.
+Base de datos Backend Frontend En la base de datos encontraremos una mongodb, este contenedor por defecto no tendra persistencia en su informacion, es por esto que recomiendo un despliegue persistente de docker en este sentido, en un blog posterior explicare como realizar este procedimiento.</description>
+    </item>
+    
+  </channel>
+</rss>
